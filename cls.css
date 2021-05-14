@@ -1,0 +1,13 @@
+#header{ margin-top: -8px; position: fixed; background: #fff; z-index: 1000;}
+
+td.cell_1 {border-bottom: 1px dotted #000000; text-align: right; width: 32}
+td.cell_2 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: left; width: 496}
+td.cell_3 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: center; width: 66}
+td.cell_4 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: center; width: 111}
+td.cell_5 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: center; width: 116}
+td.cell_6 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: center; width: 80}
+td.cell_7 {border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; text-align: right; width: 120}
+
+td.border-yes {border: 1px solid #000000}
+td.border-no {border: 0px dotted #FFFFFF}
+td.border_br {border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center}
